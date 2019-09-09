@@ -14,6 +14,3 @@ quick change to test using git diff....
 
 This change is being made from my Raspberry Pi 4, which I'm logged into on my Macbook Pro. Testing Github ssh functionality on the Pi...
 
-
-
-Change #2
